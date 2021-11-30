@@ -1,3 +1,3 @@
 # conflict-resolution3
 
-# Make some changes
+## This is the real sub-header
